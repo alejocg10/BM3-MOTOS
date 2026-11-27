@@ -1,3 +1,4 @@
 notas-privadas.txt
 *.log
 temp/
+config.txt
